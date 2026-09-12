@@ -13,6 +13,6 @@
    Leave both empty to run the game with no leaderboard.
    ============================================================ */
 window.PRISM_CONFIG = {
-  url:     '',
-  anonKey: ''
+  url:     'https://otzfmobsbusaqpzjygyr.supabase.co',
+  anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im90emZtb2JzYnVzYXFwemp5Z3lyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODkyMzMzNzAsImV4cCI6MjEwNDgwOTM3MH0.xop9IMa8n9XbJmIqtXnjh7RYVAu2_QBpKXR3RF0yEgg'
 };
