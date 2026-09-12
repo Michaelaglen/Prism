@@ -8,7 +8,7 @@ or column, watch it go. The game ends when none of your three pieces fit.
 Installable as a phone app, playable with no signal, with a real global
 leaderboard.
 
-![Prism — the board, a piece mid-drag, and a combo](screenshot.png)
+![Prism: a piece mid-drag, a combo clearing, the result screen, and the leaderboard](screenshot.png)
 
 ---
 
